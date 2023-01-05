@@ -1,3 +1,5 @@
+part of 'contador_cubit.dart';
+
 abstract class ContadorEstado {}
 
 class ContadorInicial extends ContadorEstado {}
